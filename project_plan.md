@@ -1,10 +1,13 @@
 ## Business Question
-If we open a new cafe in Tashkent:
-- Which district is the best?
-- Where is competition the highest?
-- What price level dominates?
-## Data We Need
-- Cafe name
-- location
+If we open a new café in Tashkent:
+- Which district offers the best opportunity for a new café?
+- Where is café competition the highest?
+- Which price level dominates the market?
+
+## Data Used
+- Café name
+- District
 - Rating
 - Number of reviews
+- Price level
+- Geographic coordinates (latitude, longitude)
